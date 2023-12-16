@@ -1,2 +1,2 @@
-# CV-HTML-CSS
-A CV was created based on HTML and CSS.
+# Tasks
+Following are my tasks of 15 days internship at Batwebs.
